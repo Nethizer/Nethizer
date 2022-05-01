@@ -1,1 +1,1 @@
-🎖Official NETHIZER github account.
+nethizer.pl
